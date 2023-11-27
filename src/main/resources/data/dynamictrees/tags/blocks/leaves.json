@@ -1,0 +1,14 @@
+{
+    "replace":false,
+    "values":[
+        "dtoretree:coal_leaves",
+        "dtoretree:gold_leaves",
+        "dtoretree:redstone_leaves",
+        "dtoretree:lapis_leaves",
+        "dtoretree:copper_leaves",
+        "dtoretree:emerald_leaves",
+        "dtoretree:diamond_leaves",
+        "dtoretree:quartz_leaves",
+        "dtoretree:iron_leaves"
+    ]
+}

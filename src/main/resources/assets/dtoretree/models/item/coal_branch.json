@@ -1,0 +1,7 @@
+{
+    "parent":"dynamictrees:item/branch",
+    "textures":{
+        "bark":"ore_tree:blocks/coal_log_1",
+        "rings":"ore_tree:blocks/coal_log_2"
+    }
+}

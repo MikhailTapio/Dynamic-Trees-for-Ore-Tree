@@ -1,0 +1,14 @@
+{
+    "replace":false,
+    "values":[
+        "dtoretree:coal_sapling",
+        "dtoretree:gold_sapling",
+        "dtoretree:redstone_sapling",
+        "dtoretree:lapis_sapling",
+        "dtoretree:copper_sapling",
+        "dtoretree:emerald_sapling",
+        "dtoretree:diamond_sapling",
+        "dtoretree:quartz_sapling",
+        "dtoretree:iron_sapling"
+    ]
+}

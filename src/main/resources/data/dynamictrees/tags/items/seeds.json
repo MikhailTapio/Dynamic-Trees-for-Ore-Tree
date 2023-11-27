@@ -1,0 +1,14 @@
+{
+    "replace":false,
+    "values":[
+        "dtoretree:coal_seed",
+        "dtoretree:gold_seed",
+        "dtoretree:redstone_seed",
+        "dtoretree:lapis_seed",
+        "dtoretree:copper_seed",
+        "dtoretree:emerald_seed",
+        "dtoretree:diamond_seed",
+        "dtoretree:quartz_seed",
+        "dtoretree:iron_seed"
+    ]
+}

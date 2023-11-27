@@ -1,0 +1,8 @@
+{
+    "common_leaves":"dtoretree:iron",
+    "common_species":"dtoretree:iron",
+    "primitive_log":"ore_tree:iron_tree_log",
+    "primitive_stripped_log":"pvz:nut_log",
+    "max_branch_radius":8,
+    "generate_stripped_branch":false
+}

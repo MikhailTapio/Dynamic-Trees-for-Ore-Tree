@@ -1,0 +1,7 @@
+{
+    "loader":"dynamictrees:branch",
+    "textures":{
+        "bark":"ore_tree:blocks/quartz_log_1",
+        "rings":"ore_tree:blocks/quartz_log_2"
+    }
+}

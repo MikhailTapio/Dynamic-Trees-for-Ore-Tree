@@ -1,0 +1,14 @@
+{
+    "replace":false,
+    "values":[
+        "dtoretree:coal_branch",
+        "dtoretree:gold_branch",
+        "dtoretree:redstone_branch",
+        "dtoretree:lapis_branch",
+        "dtoretree:copper_branch",
+        "dtoretree:emerald_branch",
+        "dtoretree:diamond_branch",
+        "dtoretree:quartz_branch",
+        "dtoretree:iron_branch"
+    ]
+}
